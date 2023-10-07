@@ -1,4 +1,5 @@
 # Product detection in shelf Yolo V8
+[![](https://img.shields.io/badge/hugging_face-space-yellow)](https://huggingface.co/spaces/foduucom/product-detect-in-shelf-yolov8)
 ![](https://github.com/foduucom/product-detection-in-shelf-yolov8/blob/main/thumbnail.jpg)
 ## Model Card for YOLOv8 Shelf Object Detection in Retail Environments
 ## Model Enthusiasm 🎉
