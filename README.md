@@ -1,5 +1,5 @@
 # product-detection-in-shelf-yolov8
-
+![](https://github.com/foduucom/product-detection-in-shelf-yolov8/blob/main/thumbnail.jpg)
 ## Model Card for YOLOv8 Shelf Object Detection in Retail Environments
 ## Model Enthusiasm 🎉
 Hey there, retail rockstar! 👋 If you're ready to make your mart or mall experience a whole lot cooler, give this YOLOv8 Shelf Object Detection model a virtual high-five! 🙌 Your shelves will never be the same again, and neither will your customers' smiles.
