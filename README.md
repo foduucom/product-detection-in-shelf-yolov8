@@ -7,12 +7,12 @@ Hey there, retail rockstar! 👋 If you're ready to make your mart or mall exper
 ## Model Magic ✨
 The YOLOv8 Shelf Object Detection model is your new retail sidekick! It doesn't just detect objects; it's got a sixth sense for finding what you need on those shelves. Whether it's a jar of pickles or the latest gadget, this model's got you covered. And hey, it's a pro at counting too! So, say goodbye to empty spaces and hello to perfectly organized retail enchantment.
 
-## Supported Labels 🏬
+### Supported Labels 🏬
 ```
 ['Empty Shelves', 'Magical Products']
 ```
 
-## How to get started with the model
+### How to get started with the model
 To dive into the retail wizardry with the YOLOv8 Shelf Object Detection model, follow these enchanted steps:
 ```
 pip install ultralyticsplus==0.0.28 ultralytics==8.0.43
@@ -63,11 +63,11 @@ while cap.isOpened():
         break
 ```
 
-# Release your captive video and close the portal
+### Release your captive video and close the portal
 ```
 cap.release()
 cv2.destroyAllWindows()
 ```
 
-## Contact us
+### Contact us
 For inquiries and contributions, please contact us at - [info@foduu.com](mailto:info@foduu.com)
